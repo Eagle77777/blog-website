@@ -17,7 +17,7 @@ export default function Navbar() {
 
         <Link href="/" className='text-white/90  no-underline hover:text-black'> 
 
-        ꧁༒☠︎ चौधरी तपिश राठी ☠︎༒꧂
+        Tapish Rathee
 
         </Link>
 
