@@ -19,4 +19,4 @@ export async function GET(request: NextRequest) {
     revalidatePath(path)
 
     return NextResponse.json({ revalidated: true })
-}
+}  
